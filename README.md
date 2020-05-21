@@ -4,7 +4,7 @@
 
 Team contributors: Tajwar Sultana
 
-![Learning New Tools in BHS](Erato_brainlife.io-logo_by_Soichi_-Hayashi.png)
+![Learning New Tools in BHS](Erato_brainlife.io-logo_by_Soichi-Hayashi.png)
 
 ## Summary 
 
