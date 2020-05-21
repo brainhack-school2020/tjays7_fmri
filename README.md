@@ -25,7 +25,7 @@ I am a Computer Engineering PhD student and my topic of research is Effective Br
 
 ### Data 
 
-I will be using Nilearn development_fmri dataset. I explored many other opensource datasets but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset.
+I will be using Nilearn development_fmri dataset. I explored many other open data sources but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset.
 
 ### Deliverables
 
