@@ -8,7 +8,7 @@ Team contributors: Tajwar Sultana
 
 ## Summary 
 
-This project will try to identify gender using fMRI data by applying Machine Learning models.  It would be interesting to see whether functional connectivity differs between male and female.
+This project will try to identify gender using fMRI data by applying Machine Learning models.  It would be interesting to see whether functional connectivity differs between male and female. Somewhat similar study performed [here](journals.lww.com/neuroreport/Abstract/2005/02280/Gender_differences_in_the_processing_of_disgust_.15.aspx).
 
 
 ## Project definition 
@@ -25,7 +25,7 @@ I am a Computer Engineering PhD student and my topic of research is Effective Br
 
 ### Data 
 
-I will be using Nilearn development_fmri dataset. I explored many other open data sources but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset.
+I will be using Nilearn development_fmri dataset. I explored many other open data sources but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset. The data was collected during a [study](nature.com/articles/s41467-018-03399-2) in which a short film was watched byy 33 adults and 122 children (age 3-12) while undergoing fMRI. The study was meant to characterize the development of functionally specialized social brain regions. For my project, the target variable would be gender and features would be the functional connectivity matrix.
 
 ### Deliverables
 
@@ -37,7 +37,7 @@ I will be using Nilearn development_fmri dataset. I explored many other open dat
 
 ### Progress overview
 
- 
+Started on 19th May 2020 as a project for Brainhack School. Progress is made only in the area of data selection and report yet. 
 
 ### Tools I learned during this project
 
