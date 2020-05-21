@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# Predictive Model using fMRI 
+# Can we identify gender using fMRI?
 
 Team contributors: Tajwar Sultana
 
@@ -8,7 +8,8 @@ Team contributors: Tajwar Sultana
 
 ## Summary 
 
-Interested in designing a predictive model using fMRI. The prediction variable could be age and/or gender and/or diagnosis (depends on the dataset).
+This project will try to identify gender using fMRI data by applying Machine Learning models.  It would be interesting to see whether functional connectivity differs between male and female.
+
 
 ## Project definition 
 
@@ -24,7 +25,7 @@ I am a Computer Engineering PhD student and my topic of research is Effective Br
 
 ### Data 
 
-Still searching... 
+I will be using Nilearn development_fmri dataset. I explored many other opensource datasets but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset.
 
 ### Deliverables
 
