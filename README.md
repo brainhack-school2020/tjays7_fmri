@@ -25,7 +25,7 @@ I am a Computer Engineering PhD student and my topic of research is Effective Br
 
 ### Data 
 
-I will be using Nilearn development_fmri dataset. I explored many other open data sources but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset. The data was collected during a [study](https://nature.com/articles/s41467-018-03399-2) in which a short film was watched by 33 adults and 122 children (age 3-12) while undergoing fMRI. The study was meant to characterize the development of functionally specialized social brain regions. For my project, the target variable would be gender and features would be the functional connectivity matrix.
+I will be using Nilearn development_fmri dataset. I explored many other open data sources but those required preprocessing. In order to save time and complete this project during 3-week period, I chose Nilearn preprocessed dataset. The data was collected during a [study](https://nature.com/articles/s41467-018-03399-2) in which a short film was watched by 33 adults and 122 children (age 3-12) while undergoing fMRI. The study was meant to characterize the development of functionally specialized social brain regions. For my project, the target variable would be gender and features would be the functional connectivity.
 
 ### Deliverables
 
