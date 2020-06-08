@@ -40,7 +40,7 @@ I used Nilearn development_fmri dataset. I explored many other open data sources
 
 The evaluation metrics of different machine learning models applied on the dataset are as follows:
 
-![](presentation/images/results.png)
+![](Presentation/images/results.png)
 
 Following plot shows the distribution of data with respect to the Principal Components.
 
