@@ -63,3 +63,9 @@ This project was started by Tajwar Sultana on 19th May 2020 as part of the Brain
 This project was basically adopted to learn data visualization and machine learning on neuroimaging data. The results of machine learning models shows that there is a lot of improvement required in classification of gender using functional connectivity. 
 
 Gratitude to all the organizers, instructors, TAs and fellow participants who helped us learn cool open neuroscience tools. Special thanks to my instructors Desiree, Greg, Benjamin and a token of appreciation to Elizebath and Jakob for their inspiring work and help in this project. 
+
+## References:
+
+Susanne Weis, Kaustubh R Patil, Felix Hoffstaedter, Alessandra Nostro, B T Thomas Yeo, Simon B Eickhoff, Sex Classification by Resting State Brain Connectivity, Cerebral Cortex, Volume 30, Issue 2, February 2020, Pages 824–835, https://doi.org/10.1093/cercor/bhz129
+
+Chao Zhang  Chase C. Dougherty  Stefi A. Baum  Tonya White  Andrew M. Michael, Functional connectivity predicts gender: Evidence for gender differences in resting brain connectivity, Volume 39, Issue 4, April 2018, Pages 1765-1776,  https://doi.org/10.1002/hbm.23950
