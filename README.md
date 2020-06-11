@@ -4,7 +4,7 @@
 
 Team contributors: Tajwar Sultana and Brainhack School
 
-<img src=Presentation/images/Red-brain.jpg width=720 height=600/>
+<img src=Presentation/images/Red-brain.jpg/>
 
 ## Summary 
 
